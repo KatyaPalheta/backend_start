@@ -8,11 +8,11 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-@Schema(name = "Tipo", description = "Objeto de saída da entidade Tipo")
+@Schema(name = "Genero", description = "Objeto de saída da entidade Genero")
 @Getter @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class TipoDTO {
+public class GeneroDTO {
 	
 	public Long getId() {
 		return id;
