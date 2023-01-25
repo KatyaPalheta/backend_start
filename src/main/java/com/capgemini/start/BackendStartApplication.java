@@ -9,5 +9,6 @@ public class BackendStartApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BackendStartApplication.class, args);
 	}
+	/* commit de atualização*/
 
 }
